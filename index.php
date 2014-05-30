@@ -32,5 +32,7 @@ echo gethostname(); // may output e.g,: sandie
 echo php_uname('n'); // may output e.g,: sandie
 ?>
 </b>
+<br><br><br>
+<a href="page2.php">page 2</a>
 </body>
 </html>
