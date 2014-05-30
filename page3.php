@@ -13,6 +13,6 @@ echo php_uname('n'); // may output e.g,: sandie
 </b>
 <br><br><br>
 <a href=index.php>index</a>
-<a href=page2.php>index</a>
+<a href=page2.php>page 2</a>
 </body>
 </html>

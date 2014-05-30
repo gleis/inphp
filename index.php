@@ -35,6 +35,6 @@ echo php_uname('n'); // may output e.g,: sandie
 Home
 <br><br><br>
 <a href="page2.php">page 2</a>
-<a href="page3.php">page 2</a>
+<a href="page3.php">page 3</a>
 </body>
 </html>
