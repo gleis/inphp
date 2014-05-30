@@ -3,7 +3,7 @@
 </head>
 <body>
 <b>
-This is page2
+This is page3
 <?php
 echo gethostname(); // may output e.g,: sandie
 
@@ -13,6 +13,6 @@ echo php_uname('n'); // may output e.g,: sandie
 </b>
 <br><br><br>
 <a href=index.php>index</a>
-<a href=page3.php>index</a>
+<a href=page2.php>index</a>
 </body>
 </html>
